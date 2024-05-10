@@ -2,9 +2,11 @@
 
 ## MITS 88-2SIO
 
-KiCad 7 files for a MITS ALTAIR 8800 88-2SIO Rev 0 reproduction board. This is a close replica of the original 88-2SIO board and should be functionally identical. This is my first KiCad project so please be gentle with comments.
+KiCad 7 files for a MITS ALTAIR 8800 88-2SIO Rev 0 reproduction board. This is a close replica of the original 88-2SIO board and should be functionally identical. This is my first KiCad project, so please be gentle with comments.
 
 If you would like to contribute to this board with improvements, please do.
+
+Bare boards may be purchased [here](https://www.tindie.com/products/33950/).
 
 ## Planned Projects
 
