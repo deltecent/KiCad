@@ -1,4 +1,4 @@
-#KiCad Projects
+# KiCad Projects
 
-##MITS 88-2SIO
+## MITS 88-2SIO
 
